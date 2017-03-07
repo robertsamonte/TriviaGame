@@ -1,5 +1,12 @@
-.div {
-	background-color: red;
-	color: blue;
 
+body {
+	text-align: center;
+}
+
+#wrapper {
+	color: blue;
+}
+
+h1 {
+	color:red;
 }
